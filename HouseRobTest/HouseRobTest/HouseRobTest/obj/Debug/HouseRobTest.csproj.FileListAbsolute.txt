@@ -1,0 +1,17 @@
+C:\Users\SS073807\source\repos\HouseRobTest\HouseRobTest\obj\Debug\HouseRobTest.csprojAssemblyReference.cache
+C:\Users\SS073807\source\repos\HouseRobTest\HouseRobTest\obj\Debug\HouseRobTest.csproj.CoreCompileInputs.cache
+C:\Users\SS073807\source\repos\HouseRobTest\HouseRobTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\SS073807\source\repos\HouseRobTest\HouseRobTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\SS073807\source\repos\HouseRobTest\HouseRobTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\SS073807\source\repos\HouseRobTest\HouseRobTest\bin\Debug\HouseRobTest.dll
+C:\Users\SS073807\source\repos\HouseRobTest\HouseRobTest\bin\Debug\HouseRobTest.pdb
+C:\Users\SS073807\source\repos\HouseRobTest\HouseRobTest\bin\Debug\HouseRob.exe
+C:\Users\SS073807\source\repos\HouseRobTest\HouseRobTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\SS073807\source\repos\HouseRobTest\HouseRobTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\SS073807\source\repos\HouseRobTest\HouseRobTest\bin\Debug\HouseRob.pdb
+C:\Users\SS073807\source\repos\HouseRobTest\HouseRobTest\bin\Debug\HouseRob.exe.config
+C:\Users\SS073807\source\repos\HouseRobTest\HouseRobTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\SS073807\source\repos\HouseRobTest\HouseRobTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\SS073807\source\repos\HouseRobTest\HouseRobTest\obj\Debug\HouseRobTest.csproj.CopyComplete
+C:\Users\SS073807\source\repos\HouseRobTest\HouseRobTest\obj\Debug\HouseRobTest.dll
+C:\Users\SS073807\source\repos\HouseRobTest\HouseRobTest\obj\Debug\HouseRobTest.pdb

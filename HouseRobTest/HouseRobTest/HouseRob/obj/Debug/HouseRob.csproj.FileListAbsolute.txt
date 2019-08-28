@@ -1,0 +1,7 @@
+C:\Users\SS073807\source\repos\HouseRobTest\HouseRob\bin\Debug\HouseRob.exe.config
+C:\Users\SS073807\source\repos\HouseRobTest\HouseRob\bin\Debug\HouseRob.exe
+C:\Users\SS073807\source\repos\HouseRobTest\HouseRob\bin\Debug\HouseRob.pdb
+C:\Users\SS073807\source\repos\HouseRobTest\HouseRob\obj\Debug\HouseRob.csprojAssemblyReference.cache
+C:\Users\SS073807\source\repos\HouseRobTest\HouseRob\obj\Debug\HouseRob.csproj.CoreCompileInputs.cache
+C:\Users\SS073807\source\repos\HouseRobTest\HouseRob\obj\Debug\HouseRob.exe
+C:\Users\SS073807\source\repos\HouseRobTest\HouseRob\obj\Debug\HouseRob.pdb
